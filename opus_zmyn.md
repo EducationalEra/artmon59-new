@@ -21,16 +21,12 @@
 
 «Ознайомлення з жанрами образотворчого мистецтва, на мою думку, потрібно починати з теми "Натюрморт", а не з "Анімалістичний жанр". Тобто, пропоную: розділ "Жанри образотворчого мистецтва" починати з теми "Натюрморт"».</i>
 
-<!---
-
 #### Детальна таблиця з коментарями до програм та зворотнім зв’язком модераторів{#table}
 
 Для того, щоб детально ознайомитися з врахованими/неврахованими коментарями дописувачів на EdEra під час першого етапу обговорення, перейдіть за посиланням. 
 <br>
 
-<center><a href="https://drive.google.com/file/d/0B2LCoyWVMpMSVGNDNXVkdnhORE0/view?usp=sharing" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Таблиця з коментарями</button></a></center>
-
--->
+<center><a href="https://drive.google.com/file/d/0B2LCoyWVMpMSZU51cE9YR3J3Q2s/view?usp=sharing" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Таблиця з коментарями</button></a></center>
 
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
